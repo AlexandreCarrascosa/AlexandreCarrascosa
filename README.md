@@ -1,5 +1,6 @@
-<div aling="center">
+<div align="center">
   <h2>It's nice to see you here 👋</h2>
+  <h3>Welcome!</h2>
 </div>
 
 - 📊 I'm currentlu working on Data Science usingn **Pandas** and **TensorFlow**
