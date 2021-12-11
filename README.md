@@ -1,4 +1,6 @@
-## It's nice to see you here 👋
+<div aling="center">
+  <h2>It's nice to see you here 👋</h2>
+</div>
 
 - 📊 I'm currentlu working on Data Science usingn **Pandas** and **TensorFlow**
 - 🌱 I’m currently learning Web Development with **Django**
