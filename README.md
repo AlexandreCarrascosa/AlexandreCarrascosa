@@ -3,7 +3,7 @@
   <h3>Welcome!</h3>
 </div>
 
-- 📊 I'm currentlu working on Data Science usingn **Pandas** and **TensorFlow**
+- 📊 I'm currently working on Data Science usingn **Pandas** and **TensorFlow**
 - 🌱 I’m currently learning Web Development with **Django**
 
 <!--
