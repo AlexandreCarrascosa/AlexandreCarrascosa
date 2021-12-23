@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Alexandre-Tensorflow" height="50" width="40" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png"/>
   </h3>
   
-  <h3>Databases: 
+  <h3>Databases (ORM - Python): 
   <img align="center" alt="Alexandre-MongoDB" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
   <img align="center" alt="Alexandre-MongoDB" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
   </h3>
