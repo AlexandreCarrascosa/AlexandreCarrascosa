@@ -4,7 +4,7 @@
 </div>
 
 - 📊 I'm currently working on Data Science using **Pandas** and **TensorFlow**
-- 🌱 I’m currently learning Web Development with **Django**
+- 🌱 I’m currently learning Web Development with **FastApi**
 
 <!--
 **AlexandreCarrascosa/AlexandreCarrascosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
