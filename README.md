@@ -3,8 +3,11 @@
   <h3>Welcome!</h3>
 </div>
 
-- 📊 I'm currently working on Data Science using **Pandas** and **TensorFlow**
-- 🌱 I’m currently learning Web Development with **FastApi**
+- 📊 I'm currently working on Girassol Agrícola LTDA, like a **System Analyst**
+- 🎯 My focus in enterprise is:
+    - **Data Analysis** and **Data Viz** with **Power BI**
+    - **General Development** with **Python** and **Low Code** solutions like **Power Apps**
+- 🌱 I’m currently focus on learning Web Development with **FastApi** and **Jinja2**
 
 <!--
 **AlexandreCarrascosa/AlexandreCarrascosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
